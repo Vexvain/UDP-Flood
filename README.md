@@ -6,9 +6,12 @@
 
 Take down a wifi network/device by flooding it with UDP packets. :) 
 
+-----------------------------------------
+
 # Compile
 
-`$ gcc -o udp-flood udp-flood.c`
+    $ gcc -o udp-flood udp-flood.c
+-----------------------------------------
 
 # Run
 
